@@ -9,6 +9,11 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Clear button to reset the calculator.
 - Responsive design for various screen sizes.
 
+# Technologies Used
+ - Javascript
+ - Html
+ - css
+
 - ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/javascript-calculator.git`
